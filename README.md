@@ -2,7 +2,7 @@
 
 A minecraft skript for makeing licenses for skripts
 
-## How to setup redeem a license
+## How to redeem a license
 
 For this I asume your a custumer and have bought a skript and you dont know how to redeem your skript.
 
